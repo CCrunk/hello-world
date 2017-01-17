@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+On a mission to learn coding!
